@@ -14,7 +14,6 @@ public class Ggiyaaaaaaaaaaaaak8 : MonoBehaviour
         if (A < B) Debug.Log("<");
 
         A = 10;
-        B = 2;
 
         if (A > B) Debug.Log(">");
 
