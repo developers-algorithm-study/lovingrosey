@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Ggiyaaaaaaaaaaaaak2 : MonoBehaviour
 {
-    //Baekjoon 2
+    //Baekjoon 10718
 
     void Start()
     {
