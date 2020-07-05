@@ -14,10 +14,9 @@ public class Ggiyaaaaaaaaaaaaak12 : MonoBehaviour
     {
         N = Random.Range(1, 10);
 
-        for (m = N; O < 10; m * O)
+        for (m = N; O < 10; O++;)
         {
-            Debug.Log(m);
-            O++;
+            Debug.Log(m * O);
         }
     }
 }
